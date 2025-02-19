@@ -1,0 +1,131 @@
+{
+  "comingsoon": "เร็ว ๆ นี้",
+  "landingHeader": "ข้อมูลร้านอาหารและผู้ส่งสด",
+  "landingSubHeader": "ปรับปรุงแผนการลงทุนของคุณหรือตัดสินใจด้วยข้อมูลเชิงพาณิชย์เชิงลึกของ Libralytics จาก 100,000+ ร้านอาหารและผู้ส่งสินค้าจากทั่วเอเชียแปซิฟิก",
+  "landingButton1": "ติดต่อฝ่ายขาย",
+  "landingButton2": "เรียกดูข้อมูล",
+  "landingHighlights": [
+    { "key": "records", "number": "284 ล้านรายการ", "value": "รายการต่อเดือน" },
+    { "key": "restaurants", "number": "300,000", "value": "โปรไฟล์ร้านอาหาร" },
+    { "key": "company", "number": "9", "value": "บริษัทที่ติดตาม" },
+    { "key": "sources", "number": "10", "value": "แหล่งข้อมูล" }
+  ],
+  "dataHeader": "ข้อมูลที่มีโครงสร้างใน SQL หรือ CSV",
+  "dataSubHeader": "กับ Libralytics ได้รับชุดข้อมูลดิบที่เก็บรวบรวมจากแพลตฟอร์มออนไลน์ที่เกี่ยวข้องกับธุรกิจ พร้อมกับตัวเลือกที่สะดวกในการแยกตัวเลข JSON หรือ CSV พวกเราจะโอนข้อมูลผ่านเว็บลิงก์หรือส่งไฟล์โดยตรงไปยังพื้นที่เก็บข้อมูลที่คุณต้องการ",
+  "dataQualities": [
+    {
+      "image": "assets/images/fresh.svg",
+      "header": "ข้อมูลสดตลอดเวลา",
+      "body": "ทุกเดือนเราจะอัปเดตจุดข้อมูลคุณค่า 158 ล้านจุดเพื่อให้คุณสามารถ"
+    },
+    {
+      "image": "assets/images/history.svg",
+      "header": "ข้อมูลทางประวัติศาสตร์",
+      "body": "ด้วยข้อมูลการพัฒนาและอัลกอริทึมการเก็บรวบรวมข้อมูลของเราถึง 30 เดือน เรามั่นใจว่าชุดข้อมูลของเราสามารถใช้ได้อย่างมั่นใจเพื่อสร้างโมเดล ทำนายแนวโน้ม และประเมินคู่แข่งของคุณ"
+    },
+    {
+      "image": "assets/images/api.svg",
+      "header": "API โซลูชั่น",
+      "body": "ใช้ Restaurant API, Rider API, และ Weather API เพื่อเข้าถึง กรอง และสอบถามชุดข้อมูลหลักของเราโดยตรง หรือขอข้อมูลโดยตรงตามความต้องการของคุณ"
+    }
+  ],
+  "dataUseCaseHeader": "วิธีใช้ข้อมูลของเรา",
+  "dataUseCaseSubHeader": "จากการเริ่มต้นของสตาร์ทอัพไปจนถึง บริษัท Fortune 500 ข้อมูลธุรกิจของเราถูกนำมาใช้สำหรับหลายๆ กรณีการใช้งาน",
+  "dataUseCases": [
+    {
+      "key": "Investment Intelligence",
+      "value": "ข้อมูลสำหรับการลงทุน",
+      "image": "assets/images/1_investment_intelligence.svg"
+    },
+    {
+      "key": "Datadriven Recruitment",
+      "value": "การรวมข้อมูลเพื่อการคัดเลือกบุคคล",
+      "image": "assets/images/2_data_driven_recruitment.svg"
+    },
+    {
+      "key": "Lead Generation",
+      "value": "การสร้างลีด",
+      "image": "assets/images/3_lead_generation.svg"
+    },
+    {
+      "key": "Data Enrichment",
+      "value": "การเพิ่มความเข้มแข็งของข้อมูล",
+      "image": "assets/images/4_data_enrichment.svg"
+    },
+    {
+      "key": "Trend Forecasting",
+      "value": "การพยากรณ์แนวโน้ม",
+      "image": "assets/images/5_trend_forecasting.svg"
+    },
+    {
+      "key": "Custom",
+      "value": "กำหนดเอง",
+      "image": "assets/images/6_feature.svg"
+    }
+  ],
+
+  "dataUseCaseDetailButton": "เรียนรู้เพิ่มเติม",
+  "partnerHeader": "เราภูมิใจที่ได้ร่วมงานกับ",
+  "partners": [
+    {
+      "key": "kitechat",
+      "value": "kitechat",
+      "image": "assets/images/kitechat.webp",
+      "link": "https://kite.chat"
+    },
+    {
+      "key": "legion",
+      "value": "legion",
+      "image": "assets/images/legion.webp",
+      "link": "https://t.me/LegionTradingSignal_Free"
+    },
+    {
+      "key": "savi",
+      "value": "savi",
+      "image": "assets/images/savi.webp",
+      "link": "https://savibm.com"
+    }
+  ],
+  "stepsHeader": "เราชอบให้มันเรียบง่าย",
+  "steps": [
+    {
+      "key": "Requirement",
+      "number": "1",
+      "header": "บอกเราว่าคุณต้องการอะไร",
+      "body": "ก่อนอื่นเราจะพูดคุยเกี่ยวกับความต้องการของคุณ และถ้าคุณต้องการ ทางเราสามารถให้ตัวอย่างของชุดข้อมูลได้ แล้วคุณสามารถขอชุดข้อมูลเต็มหรือเลือกชุดข้อมูลที่เฉพาะเจาะจงในประเทศและภูมิภาคที่คุณเลือกได้"
+    },
+    {
+      "key": "Delivery",
+      "number": "2",
+      "header": "รับข้อมูลที่ขอ",
+      "body": "จากนั้น เราจะอัปโหลดชุดข้อมูลที่ขอเป็นไฟล์ CSV หรือ JSON แล้วส่งลิงค์ไปยังตัวเก็บข้อมูลที่คุณเลือก"
+    },
+    {
+      "key": "Updates",
+      "number": "3",
+      "header": "รักษาความสด",
+      "body": "ข้อมูลที่ล้าสมัยจะสูญเสียความสำคัญ ด้วย Libralytics คุณสามารถรับการอัปเดตข้อมูลเป็นรายวัน เป็นรายเดือน หรือรายไตรมาสได้"
+    }
+  ],
+  "salesHeader": "ไม่สะดวกพูดคุยกับฝ่ายขาย?",
+  "salesSubHeader": "ลงทะเบียนเพื่อเข้าถึงแคตตาล็อกข้อมูลที่สามารถโต้ตอบได้:",
+  "demos": [
+    {
+      "key": "demo1",
+      "value": "ดูและดาวน์โหลดตัวอย่างข้อมูล"
+    },
+    {
+      "key": "demo2",
+      "value": "เรียกดูพจนานุกรมข้อมูลทั้งหมด"
+    },
+    {
+      "key": "demo3",
+      "value": "คำนวณราคาข้อมูลที่กำหนดเอง"
+    },
+    {
+      "key": "demo4",
+      "value": "สอบถามข้อมูล"
+    }
+  ],
+  "salesButton": "เริ่มต้นเดี๋ยวนี้"
+}

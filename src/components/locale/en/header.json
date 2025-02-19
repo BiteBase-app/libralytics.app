@@ -1,0 +1,9 @@
+{
+  "headerLinks": [
+    { "key": "Datasets", "value": "Datasets", "href": "/datasets" },
+    { "key": "Data APIs", "value": "Data APIs", "href": "/contact" },
+    { "key": "Pricing", "value": "Pricing", "href": "/contact" }
+  ],
+  "callToAction1": "Contact Sales",
+  "callToAction2": "Sign Up"
+}

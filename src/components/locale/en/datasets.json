@@ -1,0 +1,292 @@
+{
+  "datasetHeader": "Alternative data: 360° view of Q-Commerce companies",
+  "datasetSubheader": "Alternative data, also known as external data, is information collected from non-traditional, external data sources, generated either by individuals, business processes, or sensors. In businesses, it is leveraged by managers and investors to extract valuable insights, generate business opportunities, improve deal sourcing, and guide investment decisions.",
+  "datasetButton": "Contact Sales",
+  "categoriesHeader": "Libralytics' alternative data",
+  "categoriesSubheader": "Below you will find our full data offering consisting of a total of 20 unique alternative data categories from 10 different sources.",
+  "categories": [
+    {
+      "category1": [
+        {
+          "header": "Revenue by platform by geographical area",
+          "list": [
+            { "value": "Gross sales by platform" },
+            { "value": "Net sales by platform" },
+            { "value": "Sales trends over time" }
+          ]
+        }
+      ]
+    },
+    {
+      "category2": [
+        {
+          "header": "Rider count by platform by geographical area",
+          "list": [
+            { "value": "Number of riders by platform" },
+            { "value": "Number of active riders by platform" },
+            { "value": "Number of riders by geographical area" },
+            {
+              "value": "Rider utilization rate by platform and geographical area"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category3": [
+        {
+          "header": "Popular dishes by restaurant",
+          "list": [
+            { "value": "Top 10 most ordered dishes by restaurant" },
+            { "value": "Number of times each dish has been ordered" },
+            { "value": "Average rating for each dish" },
+            { "value": "Customer comments/reviews for each dish" }
+          ]
+        }
+      ]
+    },
+    {
+      "category4": [
+        {
+          "header": "Delivery time by restaurant",
+          "list": [
+            { "value": "Average delivery time by restaurant" },
+            { "value": "Delivery time distribution by restaurant" },
+            { "value": "Delivery time trends over time" }
+          ]
+        }
+      ]
+    },
+    {
+      "category5": [
+        {
+          "header": "Customer satisfaction ratings by restaurant",
+          "list": [
+            { "value": "Average customer satisfaction rating by restaurant" },
+            { "value": "Number of customer reviews/ratings by restaurant" },
+            { "value": "Customer satisfaction rating trends over time" }
+          ]
+        }
+      ]
+    },
+    {
+      "category6": [
+        {
+          "header": "Sales trends by cuisine type",
+          "list": [
+            { "value": "Gross sales by cuisine type" },
+            { "value": "Net sales by cuisine type" },
+            { "value": "Sales trends by cuisine type over time" }
+          ]
+        }
+      ]
+    },
+    {
+      "category7": [
+        {
+          "header": "Market share by platform",
+          "list": [
+            { "value": "Market share by platform in geographical area" },
+            { "value": "Market share trends over time" },
+            { "value": "Market share comparison with competitors" }
+          ]
+        }
+      ]
+    },
+    {
+      "category8": [
+        {
+          "header": "Customer demographics by platform",
+          "list": [
+            { "value": "Age distribution of customers by platform" },
+            { "value": "Gender distribution of customers by platform" },
+            { "value": "Geographic distribution of customers by platform" },
+            { "value": "Customer demographics trends over time" }
+          ]
+        }
+      ]
+    },
+    {
+      "category9": [
+        {
+          "header": "Most popular menu items by region",
+          "list": [
+            { "value": "Top 10 most ordered menu items by region" },
+            { "value": "Number of times each item has been ordered" },
+            { "value": "Average rating for each item" },
+            { "value": "Customer comments/reviews for each item" }
+          ]
+        }
+      ]
+    },
+    {
+      "category10": [
+        {
+          "header": "Average delivery time by platform by geographical area",
+          "list": [
+            { "value": "Average delivery time by platform" },
+            { "value": "Delivery time distribution by platform" },
+            { "value": "Delivery time trends over time" }
+          ]
+        }
+      ]
+    },
+    {
+      "category11": [
+        {
+          "header": "Customer satisfaction ratings by platform by cuisine type",
+          "list": [
+            {
+              "value": "Average customer satisfaction rating by platform by cuisine type"
+            },
+            {
+              "value": "Number of customer reviews/ratings by platform by cuisine type"
+            },
+            { "value": "Customer satisfaction rating trends over time" }
+          ]
+        }
+      ]
+    },
+    {
+      "category12": [
+        {
+          "header": "Order frequency and size by customer segment (e.g. age, gender, location)",
+          "list": [
+            { "value": "Order frequency by customer segment" },
+            { "value": "Order size by customer segment" },
+            { "value": "Order frequency and size trends over time" }
+          ]
+        }
+      ]
+    },
+    {
+      "category13": [
+        {
+          "header": "Customer churn rate and reasons for churn",
+          "list": [
+            { "value": "Customer churn rate by platform" },
+            { "value": "Reasons for customer churn" },
+            { "value": "Customer churn rate trends over time" }
+          ]
+        }
+      ]
+    },
+    {
+      "category14": [
+        {
+          "header": "Popular menu items by customer segment",
+          "list": [
+            { "value": "Top 10 most ordered menu items by customer segment" },
+            {
+              "value": "Number of times each item has been ordered by customer segment"
+            },
+            { "value": "Average rating for each item by customer segment" },
+            {
+              "value": "Customer comments/reviews for each item by customer segment"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category15": [
+        {
+          "header": "Driver/rider utilization rate and efficiency",
+          "list": [
+            { "value": "Rider utilization rate by platform" },
+            { "value": "Rider efficiency by platform" },
+            {
+              "value": "Rider utilization rate and efficiency trends over time"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category16": [
+        {
+          "header": "Average delivery time by platform by geographical area",
+          "list": [
+            { "value": "Average delivery time by platform" },
+            { "value": "Delivery time distribution by platform" },
+            { "value": "Delivery time trends over time" }
+          ]
+        }
+      ]
+    },
+    {
+      "category17": [
+        {
+          "header": "Cost per delivery and average delivery fee by platform by geographical area",
+          "list": [
+            { "value": "Cost per delivery by platform" },
+            { "value": "Average delivery fee by platform" },
+            {
+              "value": "Cost per delivery and average delivery fee trends over time"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category18": [
+        {
+          "header": "Marketing campaign performance by platform and channel",
+          "list": [
+            {
+              "value": "Performance of marketing campaigns by platform and channel"
+            },
+            { "value": "Conversion rate by platform and channel" },
+            {
+              "value": "Return on investment (ROI) for each marketing campaign"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category19": [
+        {
+          "header": "Customer acquisition cost by platform and channel",
+          "list": [
+            { "value": "Customer acquisition cost by platform and channel" },
+            { "value": "Number of customers acquired by platform and channel" },
+            { "value": "Customer acquisition cost trends over time" }
+          ]
+        }
+      ]
+    },
+    {
+      "category20": [
+        {
+          "header": "Conversion rate by platform and channel",
+          "list": [
+            { "value": "Conversion rate by platform and channel" },
+            { "value": "Number of orders generated by platform and channel" }
+          ]
+        }
+      ]
+    }
+  ],
+  "salesHeader": "Not up for a sales call?",
+  "salesSubHeader": "Sign up and get access to our interactive data catalog:",
+  "demos": [
+    {
+      "key": "demo1",
+      "value": "View and download data samples"
+    },
+    {
+      "key": "demo2",
+      "value": "Browse complete data dictionaries"
+    },
+    {
+      "key": "demo3",
+      "value": "Calculate custom data prices"
+    },
+    {
+      "key": "demo4",
+      "value": "Submit data inquiries"
+    }
+  ],
+  "salesButton": "Start Now"
+}

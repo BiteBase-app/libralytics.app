@@ -1,0 +1,130 @@
+{
+  "comingsoon": "Coming Soon",
+  "landingHeader": "Fresh restaurant & delivery intelligence data",
+  "landingSubHeader": "Enhance your investment plans or make data-driven decisions with Libralytics' always fresh raw data of 100,000+ restaurants and delivery riders from all over Asia-Pacific.",
+  "landingButton1": "Contact Sales",
+  "landingButton2": "Browse Data",
+  "landingHighlights": [
+    { "key": "records", "number": "284M", "value": "records monthly" },
+    { "key": "restaurants", "number": "300K", "value": "restaurants profiles" },
+    { "key": "company", "number": "9", "value": "companies tracked" },
+    { "key": "sources", "number": "10", "value": "data sources" }
+  ],
+  "dataHeader": "Structured data in SQL or CSV",
+  "dataSubHeader": "With Libralytics, get raw datasets collected from business-related public online platforms. With a convenient choice of either parsed JSON or CSV, we will transfer the data via a web link or send the files directly to your preferred storage.",
+  "dataQualities": [
+    {
+      "image": "assets/images/fresh.svg",
+      "header": "Always fresh data",
+      "body": "Every month we update 158M high-value data points so you can always stay ahead of the competition."
+    },
+    {
+      "image": "assets/images/history.svg",
+      "header": "Historical data",
+      "body": "With up to 30 months' worth of data development and scraping algorithms, our datasets can be confidently used to build models, forecast trends, assess competition."
+    },
+    {
+      "image": "assets/images/api.svg",
+      "header": "API Solutions",
+      "body": "Use Restaurant API, Rider API, and Weather API to access, filter and query our main datasets directly or request for on-demand scraping based on your needs."
+    }
+  ],
+  "dataUseCaseHeader": "How our data is used",
+  "dataUseCaseSubHeader": "From startups to Fortune 500 companies, our business data is leveraged for a multitude of cases.",
+  "dataUseCases": [
+    {
+      "key": "Investment Intelligence",
+      "value": "Investment Intelligence",
+      "image": "assets/images/1_investment_intelligence.svg"
+    },
+    {
+      "key": "Datadriven Recruitment",
+      "value": "Data-driven Recruitment",
+      "image": "assets/images/2_data_driven_recruitment.svg"
+    },
+    {
+      "key": "Lead Generation",
+      "value": "Lead Generation",
+      "image": "assets/images/3_lead_generation.svg"
+    },
+    {
+      "key": "Data Enrichment",
+      "value": "Data Enrichment",
+      "image": "assets/images/4_data_enrichment.svg"
+    },
+    {
+      "key": "Trend Forecasting",
+      "value": "Trend Forecasting",
+      "image": "assets/images/5_trend_forecasting.svg"
+    },
+    {
+      "key": "Custom",
+      "value": "Custom",
+      "image": "assets/images/6_feature.svg"
+    }
+  ],
+  "dataUseCaseDetailButton": "Learn more",
+  "partnerHeader": "We are proud to work with",
+  "partners": [
+    {
+      "key": "kitechat",
+      "value": "kitechat",
+      "image": "assets/images/kitechat.webp",
+      "link": "https://kite.chat"
+    },
+    {
+      "key": "legion",
+      "value": "legion",
+      "image": "assets/images/legion.webp",
+      "link": "https://t.me/LegionTradingSignal_Free"
+    },
+    {
+      "key": "savi",
+      "value": "savi",
+      "image": "assets/images/savi.webp",
+      "link": "https://savibm.com"
+    }
+  ],
+  "stepsHeader": "We like to keep it simple",
+  "steps": [
+    {
+      "key": "Requirement",
+      "number": "1",
+      "header": "Tell us what you need",
+      "body": "First, we discuss your specific needs. Optionally, we can offer a sample dataset. Then, you can either request the full dataset or data specific to selected countries and regions."
+    },
+    {
+      "key": "Delivery",
+      "number": "2",
+      "header": "Get the requested data",
+      "body": "The requested data is then uploaded in CSV or JSON formats as a weblink or a file, directly to your preferred data storage."
+    },
+    {
+      "key": "Updates",
+      "number": "3",
+      "header": "Keep it fresh",
+      "body": "Outdated data loses relevance. With Libralytics, get daily, monthly or quarterly data updates."
+    }
+  ],
+  "salesHeader": "Not up for a sales call?",
+  "salesSubHeader": "Sign up and get access to our interactive data catalog:",
+  "demos": [
+    {
+      "key": "demo1",
+      "value": "View and download data samples"
+    },
+    {
+      "key": "demo2",
+      "value": "Browse complete data dictionaries"
+    },
+    {
+      "key": "demo3",
+      "value": "Calculate custom data prices"
+    },
+    {
+      "key": "demo4",
+      "value": "Submit data inquiries"
+    }
+  ],
+  "salesButton": "Start Now"
+}

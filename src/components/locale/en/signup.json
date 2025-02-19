@@ -1,0 +1,30 @@
+{
+  "demos": [
+    {
+      "key": "demo1",
+      "value": "Submit data inquiries"
+    },
+    {
+      "key": "demo2",
+      "value": "Share API requirements"
+    },
+    {
+      "key": "demo3",
+      "value": "Get custom pricing"
+    },
+    {
+      "key": "demo4",
+      "value": "Consult with an expert"
+    }
+  ],
+  "topic": "Request Call-Back",
+  "header": "Contact Us",
+  "existingAccount": "Already have an account?",
+  "login": "Log in",
+  "home": "← Back to homepage",
+  "submit": "Submit →",
+  "submitting": "Submitting...",
+  "postSubmit": "Thank you for your interest in Libralytics. We will be in touch shortly.",
+  "explore": "In the meantime, you can explore our offerings.",
+  "sampleData": "Sample Data"
+}

@@ -1,0 +1,65 @@
+state,pickupKeywords,dropoffKeywords,estimatedDistance,isCashless,taxiTypeName,commission,usualFare,promotionValue,netEarningDecimal,passengerOriginalFare,driverUsualFare,subTotalAndTax,batchID,passengerTotalFareWithTip,usualFareWithoutPaxSurchargeFee,netEarningWithLateFee
+COMPLETED,Boots - Central Festival Chiangmai 4th Floor,บ้านเลขที่ 555/53 ฟิฟธ์ อเวนิว มีโชค-เชียงใหม่,6.86,TRUE,GrabMart,7,38,247,30.4,"1,196",38,"1,158",batch-1036065997-1675835055063526515,949,38,30
+COMPLETED,Cafe Amazon (คาเฟ่ อเมซอน) - มีโชค,บ้านเลขที่ 222/38 หมู่บ้านเอ็มเพอเร่อร์ 2,1.03,TRUE,GrabFood,3,17,,31.6,155,30,125,,142,17,31
+COMPLETED,Cafe Amazon (คาเฟ่ อเมซอน) - มีโชค,เดอะพรอมิเน้นซ์ พราวด์,2.54,TRUE,GrabFood,2,12,,27.6,220,30,190,,202,12,27
+COMPLETED,Cafe Amazon (คาเฟ่ อเมซอน) - มีโชค,Nong Chom,4,TRUE,GrabFood,2,12,10,27.6,90,30,60,,62,12,27
+COMPLETED,Cafe Amazon (คาเฟ่ อเมซอน) - เชียงใหม่- แม่โจ้,รวมโชคมีชัย คลินิกกายภาพบำบัด        ,0.77,TRUE,GrabFood,3,17,,31.6,85,30,55,,72,17,31
+COMPLETED,Cafe Amazon (คาเฟ่ อเมซอน) - เชียงใหม่- แม่โจ้,"43, The Laguna Home, Nong Chom, San Sai",3.21,TRUE,GrabFood,2,12,,27.6,200,30,170,,182,12,27
+COMPLETED,Cafe Amazon (คาเฟ่ อเมซอน) - เชียงใหม่- แม่โจ้,Tonkla School,3.17,TRUE,GrabFood,2,12,13,27.6,330,30,300,,299,12,27
+CANCELLED_DRIVER,ChaTraMue (ชาตรามือ) - รวมโชค,ถนนสมโภชเชียงใหม่ 700 ปี,5.38,TRUE,GrabFood,,,,,,,,,,,
+COMPLETED,ChaTraMue (ชาตรามือ) - รวมโชค,399/42 Rungrueng Quality House,5.43,TRUE,GrabFood,3,16,,29.8,113,33,80,,96,16,29
+COMPLETED,Doiluang Coffee (กาแฟสดดอยหลวง) - รวมโชค,สำนักงาน สีดูลักซ์,3.38,TRUE,GrabFood,2,12,65,27.6,180,30,150,,97,12,27
+COMPLETED,Guay Tiaw Champ (ก๋วยเตี๋ยวแชมป์) - ตลาดรวมโชค,345/113 Karnkanok 20  Village,2.45,TRUE,GrabFood,2,12,,27.6,100,30,70,,82,12,27
+COMPLETED,Joke Ton Payom 2 (โจ๊กต้นพยอม สาขา 2) - ถนนเชียงใหม่ พร้าว,"204, Ban Phi Muk 4, San Sai Noi, San Sai",6.93,TRUE,GrabFood,5,28,44,36.4,202,42,160,,154,28,36
+COMPLETED,Juice by Jah (จุ๊ส by จ๋า) - กาดรวมโชค,บ้านเลขที่ 199/36 หมู่บ้านสวนนนทรี,1.59,TRUE,GrabFood,2,12,,27.6,75,30,55,,67,12,27
+COMPLETED,Juice by Jah (จุ๊ส by จ๋า) - กาดรวมโชค,142/1 Ban Tha Duea Rd,2.67,TRUE,GrabFood,2,12,,27.6,160,30,130,,162,12,47
+COMPLETED,Kebab Express Chiangmai - Ruamchok Mall,176/31 Nanthana Village,6.29,TRUE,GrabFood,1,6,,4.8,184,6,178,batch-4013896446-1675518166881614981,184,6,4
+COMPLETED,Kebab Express Chiangmai - Ruamchok Mall,"99/100, Phase 5 Soi 7, San Sai Noi, San Sai",2.38,TRUE,GrabFood,,0,47,0,186,,,batch-5385933-1675771820155682569,139,0,
+COMPLETED,Kebab Express Chiangmai - Ruamchok Mall,ประดิษฐ์การช่าง - Pradit Kanchang,5.78,TRUE,GrabFood,1,7,75,10.6,345,7,338,batch-2253709953-1675851103667560249,270,7,10
+COMPLETED,KFC (เคเอฟซี) - รวมโชค มอลล์,บ้านเลขที่ 411/376 หมู่บ้านนันทนาธานี,8.71,TRUE,GrabFood,8,44,,45.2,403,54,349,,393,44,45
+COMPLETED,KFC (เคเอฟซี) - รวมโชค มอลล์,"Khlongchon Thaduea Rd, San Phisuea, Mueang Chiang Mai, Chiang Mai, Chiang Mai, Thailand",4.98,TRUE,GrabFood,,17,67,22,514,17,497,batch-5385933-1675490145643417482,447,17,22
+COMPLETED,KFC (เคเอฟซี) - รวมโชค มอลล์,333/121 Setthasiri Village San Sai,2.29,TRUE,GrabFood,3,17,50,31.6,258,30,228,,195,17,31
+CANCELLED_DRIVER,KFC (เคเอฟซี) - รวมโชค มอลล์,Homemade Hamburger ของลุงสมหวัง - สันผีเสื้อ,5.76,TRUE,GrabFood,,,,,,,,,,,
+COMPLETED,KFC (เคเอฟซี) - รวมโชค มอลล์,บ้านเลขที่ 414/2 หมู่บ้านสันทรายวิลเลจ,3.49,TRUE,GrabFood,2,12,,27.6,174,30,144,,156,12,27
+COMPLETED,KFC (เคเอฟซี) - รวมโชค มอลล์,San Phisuea,5.31,TRUE,GrabFood,3,15,,29,570,32,538,,553,15,29
+COMPLETED,KFC (เคเอฟซี) - รวมโชค มอลล์,บ้านเลขที่ 242 ถนนบ้านท่าเดื่อ ซอย 8,4.25,TRUE,GrabFood,2,12,12,27.6,229,30,199,,199,12,27
+COMPLETED,KFC (เคเอฟซี) - รวมโชค มอลล์,อภิรุ่งอุไร อพาร์ทเม้นท์,8.24,TRUE,GrabFood,7,39,85,42.2,278,50,228,,182,39,42
+COMPLETED,KFC (เคเอฟซี) - รวมโชค มอลล์,"Somphot Chiang Mai 700 Pi, San Phi Suea, Mueang Chiang Mai, Chiang Mai, Chiang Mai City, Thailand",4.38,TRUE,GrabFood,,12,12,12,201,12,189,batch-5385933-1675939269048323347,189,12,12
+COMPLETED,KFC (เคเอฟซี) - รวมโชค มอลล์,บ้านเลขที่ 45 หมู่บ้านรินรดา,3.71,TRUE,GrabFood,2,12,52,27.6,397,30,367,,327,12,27
+COMPLETED,KFC (เคเอฟซี) - รวมโชค มอลล์,บ้านเลขที่ 69/52 หมู่บ้านลัดดารมย์,4.16,TRUE,GrabFood,2,12,64,27.6,288,30,258,,206,12,27
+COMPLETED,KFC (เคเอฟซี) - รวมโชค มอลล์,ตลาด - Market,4.2,TRUE,GrabFood,2,12,49,9.8,258,12,246,batch-1850263915-1675921503683114854,210,12,9
+COMPLETED,KFC (เคเอฟซี) - รวมโชค มอลล์,หมู่บ้านรุ่งโรจน์ - Rungrot Village,8.96,TRUE,GrabFood,9,46,,46.8,185,56,129,,175,46,46
+COMPLETED,KFC (เคเอฟซี) - รวมโชค มอลล์,เอ็น แอนด์ อาร์ เฮ้าส์,3,TRUE,GrabFood,,17,10,22,245,17,228,batch-5385933-1676033771422372628,235,17,22
+COMPLETED,KFC (เคเอฟซี) - รวมโชค มอลล์,บ้านดวงสอาด - Ban Duang Sa-at,2.85,TRUE,GrabFood,,17,72,22,266,17,249,batch-5385933-1676029741206240218,194,17,22
+COMPLETED,KFC (เคเอฟซี) - รวมโชค มอลล์,ดี้ ร้านขายของชำ,5.8,TRUE,GrabFood,4,24,90,24.4,451,24,427,batch-3542434373-1676026784048711812,382,24,44
+COMPLETED,KFC (เคเอฟซี) - โลตัส รวมโชค,เมเปิ้ลซัพพลายเชน,5.49,TRUE,GrabFood,3,16,81,12.8,365,16,349,batch-5385933-1675939269048323347,284,16,12
+COMPLETED,McDonald's (แมคโดนัลด์) - มีโชค เชียงใหม่,88/93 Supalai Moda Chiangmai Village,6.8,TRUE,GrabFood,5,27,90,35.6,501,41,460,,397,27,35
+COMPLETED,McDonald's (แมคโดนัลด์) - มีโชค เชียงใหม่,บ้านเลขที่ 333/57 หมู่บ้านริชชี่ ริช แลนด์,6.67,TRUE,GrabFood,5,26,,35.8,150,41,109,,135,26,35
+COMPLETED,McDonald's (แมคโดนัลด์) - มีโชค เชียงใหม่,Thai Park Snake Farm,4.08,TRUE,GrabFood,2,12,,27.6,349,30,319,,331,12,27
+COMPLETED,Namtaohoo Koh Sak (น้ำเต้าหู้โก๋ศักดิ์) - รวมโชค,หมู่บ้านศรีอนันต์ทาวเฮ้าส์ ซอย 10,3.08,TRUE,GrabFood,2,12,,27.6,132,30,102,,114,12,27
+COMPLETED,Namtaohoo Koh Sak (น้ำเต้าหู้โก๋ศักดิ์) - รวมโชค,บ้านเลขที่ 498/92 หมู่บ้านสีวลี มีโชค-เชียงใหม่,5.59,TRUE,GrabFood,3,17,147,30.6,234,34,200,,70,17,30
+COMPLETED,Namtaohoo Koh Sak (น้ำเต้าหู้โก๋ศักดิ์) - รวมโชค,เตี๋ยวคลุกต๋ำส้มหนมเส้น - Tiao Khluk Tam Som Nom Sen,2.72,TRUE,GrabFood,,12,,12,109,12,97,batch-5385933-1675944892284791972,109,12,12
+COMPLETED,Namtaohoo Koh Sak (น้ำเต้าหู้โก๋ศักดิ์) - รวมโชค,บ้านเลขที่ 199/137 ซอย 7 ,2.46,TRUE,GrabFood,3,17,,18.6,128,17,111,batch-5385933-1676029741206240218,128,17,18
+COMPLETED,Naruto​ Japanese​Restaurant - ถนนสมโภชเชียงใหม่,บ้านเลขที่ 6 หมู่บ้านร่มเย็นเพลส,4.71,TRUE,GrabFood,3,17,50,18.6,365,17,348,batch-5385933-1675855717865331132,315,17,18
+COMPLETED,OngTipaRos2 (อ๋องทิพย์รสสาขา 2) - ถนนเชียงใหม่ พร้าว,The Patio Village,5.61,TRUE,GrabFood,3,17,1,30.6,154,34,120,,136,17,30
+COMPLETED,Pimtofu เต้าหู้โฮมเมด - รวมโชค,55/14 Monotown Village,2.69,TRUE,GrabFood,2,12,,27.6,293,30,263,,275,12,27
+COMPLETED,Roastniyom Coffee (กาแฟรสนิยม) - มีโชค,แคนดิซ คลินิก,2.63,TRUE,GrabFood,2,12,50,27.6,259,30,229,,191,12,27
+COMPLETED,S&P Restaurant (เอส แอนด์ พี เรสเตอรองท์) - มีโชค พลาซ่า,บ้านพฤกษ์วาลี 5,6.41,TRUE,GrabFood,4,24,,34.2,457,39,418,,442,24,34
+COMPLETED,Somtum Khun Ploy (ส้มตำคุณพลอย) - รวมโชคมอลล์,99/663 Phimuk 1 Village,3.28,TRUE,GrabFood,,12,,12,127,12,115,batch-5385933-1675771820155682569,127,12,12
+COMPLETED,Somtum Khun Ploy (ส้มตำคุณพลอย) - รวมโชคมอลล์,เดอะ เน็กซ์ 1 อาคาร 3,1.02,FALSE,GrabFood,2,12,,27.6,128,30,98,,110,12,27
+COMPLETED,Starbucks (สตาร์บัคส์) - รวมโชค มอลล์,"Heng Leasing Co.,Ltd. (Head Office)",3.31,TRUE,GrabFood,2,12,,29.6,127,32,95,,107,12,29
+COMPLETED,The Pizza Company (เดอะพิซซ่า คอมปะนี) - รวมโชค มอลล์,บ้านเลขที่ 135 หมู่บ้านกาญจน์กนก,3.01,TRUE,GrabFood,2,12,52,37.6,469,40,429,,420,12,67
+COMPLETED,The Pizza Company (เดอะพิซซ่า คอมปะนี) - รวมโชค มอลล์,486 Soi Lang Talat 5,3.97,TRUE,GrabFood,2,12,102,37.6,509,40,469,,379,12,37
+COMPLETED,The Pizza Company (เดอะพิซซ่า คอมปะนี) - รวมโชค มอลล์,296/133 The Laguna Home Phase 2 Village,5.17,TRUE,GrabFood,2,14,14,39.2,211,42,169,,169,14,39
+COMPLETED,Tops (market) - Ruamchok Mall Chiangmai,บ้านเลขที่ 333/5 หมู่บ้านธนาวัลย์,0.74,TRUE,GrabMart,2,12,112,27.6,545,30,515,,415,12,27
+COMPLETED,Tops (market) - Ruamchok Mall Chiangmai,บ้านเลขที่ 333/197 หมู่บ้านธนาวัลย์,0.91,TRUE,GrabMart,2,12,112,27.6,530,30,500,,400,12,27
+COMPLETED,Tops (market) - Ruamchok Mall Chiangmai,เกรซบิวตี้ - Grace Beauty,0.17,TRUE,GrabMart,2,12,212,27.6,"1,030",30,"1,000",,800,12,27
+CANCELLED_DRIVER,Tops (market) - Ruamchok Mall Chiangmai,จีพีซีเอ็ม กรุ๊ป,3.96,TRUE,GrabMart,,,,,,,,,,,
+COMPLETED,Tops (market) - Ruamchok Mall Chiangmai,โรงพยาบาลเทพปัญญา ผู้ป่วยฉุกเฉิน,2.11,TRUE,GrabMart,2,12,12,27.6,288,30,258,,258,12,27
+COMPLETED,Tops (market) - Ruamchok Mall Chiangmai,หมี่คลุกKN - ฟ้าฮ่าม,3.39,TRUE,GrabMart,2,12,12,27.6,754,30,724,,725,12,27
+COMPLETED,Tops Food Hall - Central Chiangmai,เอทีเอ็ม ธ. กสิกรไทย - ATM Kasikorn Bank,4.81,TRUE,GrabMart,2,12,184,9.6,"1,239",12,"1,227",batch-3101661669-1675845553171026046,"1,055",12,9
+COMPLETED,Tops Food Hall - Central Chiangmai,เศรษฐสิริ สันทราย เชียงใหม่,5.52,TRUE,GrabMart,5,28,,22.4,269,28,241,batch-3101661669-1675845553171026046,269,28,22
+COMPLETED,Tops Food Hall - Central Chiangmai,บ้านเลขที่ 127/9 ถนนศรีอนันต์,2.08,FALSE,GrabMart,2,12,,9.6,122,12,110,batch-1036065997-1675835055063526515,122,12,9
+COMPLETED,Wataru sushi bar - รวมโชค,Coffee House,4.26,TRUE,GrabFood,,0,10,5,329,,,batch-5385933-1675490145643417482,319,0,5
+COMPLETED,Yumpumajedyod (ยำปูม้าเจ็ดยอด) - รวมโชค,บ้านเลขที่ 164/1 หมู่บ้านวนัสนันเพลส,3.18,TRUE,GrabFood,,0,49,5,141,,,batch-5385933-1675509106308882470,92,0,5
+COMPLETED,Yumpumajedyod (ยำปูม้าเจ็ดยอด) - รวมโชค,"Middle Ring Rd, Fa Ham, Mueang Chiang Mai, Chiang Mai, Chiang Mai, Thailand",1.19,TRUE,GrabFood,,0,,30,156,30,126,,126,0,30

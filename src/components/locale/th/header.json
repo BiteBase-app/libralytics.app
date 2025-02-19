@@ -1,0 +1,9 @@
+{
+  "headerLinks": [
+    { "key": "Datasets", "value": "ชุดข้อมูล", "href": "/datasets" },
+    { "key": "Data APIs", "value": "API ข้อมูล", "href": "/contact" },
+    { "key": "Pricing", "value": "ราคา", "href": "/contact" }
+  ],
+  "callToAction1": "ติดต่อฝ่ายขาย",
+  "callToAction2": "ลงชื่อ"
+}

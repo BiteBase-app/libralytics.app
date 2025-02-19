@@ -1,0 +1,113 @@
+{
+  "banner": "Didn’t find what you were looking for?",
+  "contact": "Contact Us",
+  "sidebarHeader": "DATASETS",
+  "datasets": [
+    {
+      "key": "data1",
+      "value": "Grab Food",
+      "link": "/dashboard/datasets/grabfood"
+    },
+    {
+      "key": "data2",
+      "value": "foodpanda",
+      "link": "/dashboard/datasets/foodpanda"
+    },
+    {
+      "key": "data3",
+      "value": "Shopee Food",
+      "link": "/dashboard/datasets/shopeefood"
+    },
+    {
+      "key": "data4",
+      "value": "Lineman",
+      "link": "/dashboard/datasets/lineman"
+    },
+    {
+      "key": "data5",
+      "value": "WowNow",
+      "link": "/dashboard/datasets/wownow"
+    }
+  ],
+  "logout": "Logout",
+  "download": "Get Sample",
+  "mobileMessage": "Currently not supported on mobile. Please view on a desktop",
+  "sample": "Data Sample",
+  "sales": "Contact Sales for Customized Data Sample",
+
+  "grabfood": {
+    "name": "grabfood",
+    "imageSrc": "/assets/images/grabfood.webp",
+    "imageAlt": "Grab Food",
+    "title": "Grab Food Dataset",
+    "description": "It consists of various data points, such as location, number of riders, heatmap, etc,. You can use this data to monitor talent movement or competitors, generate job market insights, and more.",
+    "pricing": "Available pricing:",
+    "pricingDetails": "One-off purchase; Daily license; Monthly license; Quarterly license",
+    "coverage": "Available coverage:",
+    "coverageDetails": "Malaysia, Thailand, Philippines, Myanmar, Cambodia, Laos",
+    "record": "Recorded count:",
+    "recordDetails": "2,000,000+",
+    "history": "Historical Data:",
+    "historyDetails": "2023"
+  },
+  "shopeefood": {
+    "name": "shopeefood",
+    "imageSrc": "/assets/images/shopeefood.webp",
+    "imageAlt": "ShopeeFood",
+    "title": "ShopeeFood Dataset",
+    "description": "It consists of various data points, such as location, number of riders, heatmap, etc,. You can use this data to monitor talent movement or competitors, generate job market insights, and more.",
+    "pricing": "Available pricing:",
+    "pricingDetails": "One-off purchase; Daily license; Monthly license; Quarterly license",
+    "coverage": "Available coverage:",
+    "coverageDetails": "Malaysia, Thailand, Philippines",
+    "record": "Recorded count:",
+    "recordDetails": "1,500,000+",
+    "history": "Historical Data:",
+    "historyDetails": "2023"
+  },
+  "lineman": {
+    "name": "lineman",
+    "imageSrc": "/assets/images/lineman.webp",
+    "imageAlt": "Lineman",
+    "title": "Lineman Dataset",
+    "description": "It consists of various data points, such as location, number of riders, heatmap, etc,. You can use this data to monitor talent movement or competitors, generate job market insights, and more.",
+    "pricing": "Available pricing:",
+    "pricingDetails": "One-off purchase; Daily license; Monthly license; Quarterly license",
+    "coverage": "Available coverage:",
+    "coverageDetails": "Thailand",
+    "record": "Recorded count:",
+    "recordDetails": "1,000,000+",
+    "history": "Historical Data:",
+    "historyDetails": "2023"
+  },
+  "wownow": {
+    "name": "wownow",
+    "imageSrc": "/assets/images/wownow.webp",
+    "imageAlt": "Wownow",
+    "title": "Wownow Dataset",
+    "description": "It consists of various data points, such as location, number of riders, heatmap, etc,. You can use this data to monitor talent movement or competitors, generate job market insights, and more.",
+    "pricing": "Available pricing:",
+    "pricingDetails": "One-off purchase; Daily license; Monthly license; Quarterly license",
+    "coverage": "Available coverage:",
+    "coverageDetails": "Cambodia",
+    "record": "Recorded count:",
+    "recordDetails": "1,000,000+",
+    "history": "Historical Data:",
+    "historyDetails": "2023"
+  },
+  "foodpanda": {
+    "name": "foodpanda",
+    "imageSrc": "/assets/images/foodpanda.webp",
+    "imageAlt": "foodpanda",
+    "title": "foodpanda Dataset",
+    "description": "It consists of various data points, such as location, number of riders, heatmap, etc,. You can use this data to monitor talent movement or competitors, generate job market insights, and more.",
+    "pricing": "Available pricing:",
+    "pricingDetails": "One-off purchase; Daily license; Monthly license; Quarterly license",
+    "coverage": "Available coverage:",
+    "coverageDetails": "Malaysia, Thailand, Philippines, Myanmar, Cambodia, Laos",
+    "record": "Recorded count:",
+    "recordDetails": "1,000,000+",
+    "history": "Historical Data:",
+    "historyDetails": "2023"
+  }
+}
